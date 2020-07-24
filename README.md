@@ -6,9 +6,9 @@
 
 
 <p align="center">
-    <img src="Result.gif" alt="" width="100%" height="50%">
+    <img src="Result.gif" alt="" width="90%" height="40%">
 </p>
 
 <p align="center">
-    <img src="Result2.gif" alt="" width="100%" height="50%">
+    <img src="Result2.gif" alt="" width="90%" height="40%">
 </p>
