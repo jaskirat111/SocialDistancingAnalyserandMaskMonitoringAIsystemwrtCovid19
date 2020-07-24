@@ -6,9 +6,9 @@
 
 
 <p align="center">
-    <img src="Result.gif" alt="" width="90%" height="20%">
+    ![](Result.gif)
 </p>
 
 <p align="center">
-    <img src="Result2.gif" alt="" width="90%" height="20%">
+    ![](Result2.gif)
 </p>
