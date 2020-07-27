@@ -25,5 +25,5 @@
   
   ![](Result8.gif)
 
-# Social Distancing with Artificial Intelligence
+# Project Overview
 Our AI Compliance consists of state-of-the-Art Social Distancing Monitoring coupled with Mask detection system to check whether the norms are followed or not. This project aims at monitoring people violating Social Distancing over video footage coming from CCTV Cameras. Uses YOLOv3-ssp for detecting persons along with social distancing analyser tool simulated with 3D depth factor based on the camera position and orientation for recognizing potential intruders. A Face Mask Classifier model (ResNet50) is trained and deployed for identifying people not wearing a face mask.
